@@ -1,0 +1,1 @@
+# sumit-global-spyne-ai-image-upscaler-automation
