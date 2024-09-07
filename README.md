@@ -23,7 +23,8 @@ Before running the tests, ensure the following are installed:
 **Project Setup**
 
 1. Clone the repository:
-   git clone https://github.com/sumit-global/spyne-ai-image-upscaler-automation.git
+
+   git clone https://github.com/sumit-global/sumit-global-spyne-ai-image-upscaler-automation.git
    cd spyne-ai-image-upscaler-automation
 
 2. Install dependencies: Run the following command to download all the project dependencies:
