@@ -1,0 +1,10 @@
+<suite name="Spyne Test Suite" verbose="1" parallel="none">
+    <test name="Spyne Test Automation">
+        <parameter name="browser" value="chrome"/>  <!-- Browser parameter -->
+        <classes>
+            <class name="com.upscaler.test.NavigationAndUIValidationTest"/>
+            <class name="com.upscaler.test.ImageUploadTest"/>
+            <class name="com.upscaler.test.ImageUpsellingTest"/>
+        </classes>
+    </test>
+</suite>
